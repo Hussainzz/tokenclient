@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tokenclientweb3/static/css/main.b100e6da.chunk.css",
+    "main.js": "/tokenclientweb3/static/js/main.3ba64425.chunk.js",
+    "main.js.map": "/tokenclientweb3/static/js/main.3ba64425.chunk.js.map",
+    "runtime-main.js": "/tokenclientweb3/static/js/runtime-main.1290f812.js",
+    "runtime-main.js.map": "/tokenclientweb3/static/js/runtime-main.1290f812.js.map",
+    "static/js/2.edd9a37b.chunk.js": "/tokenclientweb3/static/js/2.edd9a37b.chunk.js",
+    "static/js/2.edd9a37b.chunk.js.map": "/tokenclientweb3/static/js/2.edd9a37b.chunk.js.map",
+    "index.html": "/tokenclientweb3/index.html",
+    "precache-manifest.b4888558a862bf399c29066a173d3a31.js": "/tokenclientweb3/precache-manifest.b4888558a862bf399c29066a173d3a31.js",
+    "service-worker.js": "/tokenclientweb3/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/tokenclientweb3/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1290f812.js",
+    "static/js/2.edd9a37b.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.3ba64425.chunk.js"
+  ]
+}
